@@ -9,3 +9,4 @@ target/
 **/*.rs.bk
 
 id.json
+.idea
